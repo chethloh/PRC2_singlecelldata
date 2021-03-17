@@ -19,4 +19,10 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install("scater")
 
-Once the packages and their dependencies are loaded, simply run the iSEE function according to the script provided here (iSEErunningscript.R) to visualize the single cell data. 
+Once the packages and their dependencies are loaded, simply run the iSEE function according to the script provided here (iSEErunningscript.R) to visualize the single cell data.
+
+
+In the userface, to visualize the single-cell data UMAP, select "Reduced Dimension Plot 1" under the "Choose Panel Type".
+  - To view a specific gene's expression pattern in the UMAP, go to "Visual Parameters" and select Color By: "Feature name" and type in the gene of interest.
+  - use "res.2.5" as the default clusters which is the final clustering resolution selected and used in the manuscript.
+  - An example image is also available here. 

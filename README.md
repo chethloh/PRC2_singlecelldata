@@ -19,4 +19,4 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install("scater")
 
-Once the packages and their dependencies are loaded, simply run the iSEE function according to the script provided here 
+Once the packages and their dependencies are loaded, simply run the iSEE function according to the script provided here (iSEErunningscript.R) to visualize the single cell data. 

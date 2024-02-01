@@ -1,6 +1,6 @@
 # PRC2 Single Cell Data
 Viewing single cell data (UMAP, TSNE and PCA) using a web-based user interface for easy visualization of single cell data as described in:
-Loh, C.H., van Genesen, S., Perino, M. et al. Loss of PRC2 subunits primes lineage choice during exit of pluripotency. Nat Commun 12, 6985 (2021). https://doi.org/10.1038/s41467-021-27314-4
+Loh et al. 2021 (Loss of PRC2 subunits primes lineage choice during exit of pluripotency. Nat Commun 12, 6985, https://doi.org/10.1038/s41467-021-27314-4).
 
 The single-cell dataset saved in .rds file can be accessed via the following link https://zenodo.org/doi/10.5281/zenodo.10606898
 Dataset version 1.0.0
